@@ -1,0 +1,24 @@
+# Libraries
+# Libraries
+/lib/*.jar
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven files
+target/
+
+# Intellij IDEA files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+hello_test/
+
+config_center_client.log
+*.orig
+pop-finance-web/src/test/java/test/jsf/SafToJsfTest.java
+pop-finance-web/hs_err_pid7624.log
