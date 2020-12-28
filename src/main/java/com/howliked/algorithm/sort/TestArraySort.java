@@ -1,7 +1,5 @@
-package com.howliked.algorithm.sort.test;
+package com.howliked.algorithm.sort;
 
-import com.howliked.algorithm.sort.ArraySortContext;
-import com.howliked.algorithm.sort.IArraySort;
 import com.howliked.algorithm.sort.impl.InsertSort;
 
 public class TestArraySort {
